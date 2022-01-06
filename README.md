@@ -26,7 +26,7 @@ Drexel University, Philadelphia PA<br>
 4. Credits
 	- [Developers](#developers)
 	- [License](#license)
-5. credits
+8. credits
 	- [developers](#developers)
 	- [license](#license)
 6. Credits
